@@ -94,15 +94,15 @@ public class Test {
 //        double coef2 = 1.8;
 //        System.out.println(celsiusCount + " градусов по цельсию это " + (celsiusCount * coef2 + coef1));
 
-//        int twixPrice = 77;
-//        int marsPrice = 78;
-//        int snickersPrice = 100;
-//        int woterPrice = 50;
-//
-//        boolean isCanBuy = false;
-//
-//        System.out.println("Доступно: ");
-//        System.out.println(" Твикс 77 \n Марс 78 \n Сникерс 100 \n Вода 50 ");
+        int twixPrice = 77;
+        int marsPrice = 78;
+        int snickersPrice = 100;
+        int woterPrice = 50;
+
+        boolean isCanBuy = false;
+
+        System.out.println("Доступно: ");
+        System.out.println(" Твикс 77 \n Марс 78 \n Сникерс 100 \n Вода 50 ");
 //
 //
 //        System.out.println("Введите колличество денег: ");
